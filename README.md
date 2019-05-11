@@ -19,3 +19,8 @@ Container         |  Virtual Machine
 :-------------------------|:-------------------------
 ![enter image description here](https://www.docker.com/sites/default/files/d8/2018-11/docker-containerized-appliction-blue-border_2.png)  | ![enter image description here](https://www.docker.com/sites/default/files/d8/2018-11/container-vm-whatcontainer_2.png)
 |Containers are an abstraction at the app layer that packages code and dependencies together. Multiple containers can run on the same machine and share the OS kernel with other containers, each running as isolated processes in user space. Containers take up less space than VMs , can handle more applications. | Virtual machines (VMs) are an abstraction of physical hardware turning one server into many servers. The hypervisor allows multiple VMs to run on a single machine. Each VM includes a full copy of an operating system, the application, necessary binaries and libraries - taking up tens of GBs. VMs can also be slow to boot.
+
+## Installation of Docker 
+
+### Installing Docker on Ubuntu
+
