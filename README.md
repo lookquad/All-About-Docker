@@ -23,4 +23,9 @@ Container         |  Virtual Machine
 ## Installation of Docker 
 
 ### Installing Docker on Ubuntu
+Ubuntu is one of the most common and widely used Linux distribution among developer community. The installation of Docker on Ubuntu has following procedure-
+
+    sudo apt-get install 
+
+
 
