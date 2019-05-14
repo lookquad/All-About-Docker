@@ -147,5 +147,8 @@ Before you install Docker CE for the first time on a new host machine, you need 
 
 Docker CE is installed and running. The `docker` group is created but no users are added to it. You need to use `sudo` to run Docker commands. Continue to [Linux postinstall](https://docs.docker.com/v17.09/engine/installation/linux/linux-postinstall/) to allow non-privileged users to run Docker commands and for other optional configuration steps.
 
+#### Use Play-With-Docker
+
+If you don't want to install Docker, an alternative is to use [Play-With-Docker](http://play-with-docker.com/), which is a website where you can run terminals directly from your browser that have Docker installed.
 
 
