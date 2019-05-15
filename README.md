@@ -151,4 +151,11 @@ Docker CE is installed and running. The `docker` group is created but no users a
 
 If you don't want to install Docker, an alternative is to use [Play-With-Docker](http://play-with-docker.com/), which is a website where you can run terminals directly from your browser that have Docker installed.
 
+##  Why containers are appealing to users?
 
+ 1. No more "Works on my machine"
+ 2. Light Weight and fast
+ 3. Better resource utilization
+ 4. can fit far more containers than VMs
+ 5. Ecosystem and tooling
+ A lot more to do with container. Just start exploring it...
